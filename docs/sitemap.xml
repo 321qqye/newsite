@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://321qqye.github.io/newsite/post/first/</loc>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://321qqye.github.io/newsite/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://321qqye.github.io/newsite/</loc>
+  </url><url>
+    <loc>https://321qqye.github.io/newsite/post/</loc>
+  </url><url>
+    <loc>https://321qqye.github.io/newsite/tags/</loc>
   </url>
 </urlset>
