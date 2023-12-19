@@ -9,20 +9,11 @@
     <lastBuildDate>Tue, 12 Dec 2023 09:41:07 +0800</lastBuildDate>
     <atom:link href="https://321qqye.github.io/newsite/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
+      <title>校园跑步社团成立新闻</title>
       <link>https://321qqye.github.io/newsite/post/first/</link>
       <pubDate>Tue, 12 Dec 2023 09:41:07 +0800</pubDate>
       <guid>https://321qqye.github.io/newsite/post/first/</guid>
-      <description>创建 Hugo 内容 方法一：使用 hugo new content 命令创建，其中最后的参数为hugo new content /posts/first.md 方法二：人工创建，使用 VS Code 编辑器，在content目录中创建posts目录，然后在posts目录中新建后缀名为.md的文件即可。
-使用 Markdown 语法编辑页面内容 Markdown 是一种非常容易学习的标记语言，规则见：https://www.markdownguide.org/cheat-sheet/
-必须掌握的有：超级链接、图片、视频、标题、段落
-超级链接 超级链接的语法为[]()，方括弧中的为链接内容，圆括弧中为链接地址。
-西北民族大学是新中国第一所民族高等教育院校。
-图片 图片的标记语法为![]()，方括弧中的内容为图片描述文字，圆括弧中为图片的地址，可以是在线地址，也可以是本地地址。
-视频 视频内容，建议上传到视频网站，例如优酷、B 站，然后使用这些网站的分享嵌入功能，利用iframe元素实现视频的播放。
-默认情况下，Hugo 工具是不支持在 markdown 中使用 html 内容的，但是可以通过设置让其支持 html，在 hugo 配置中增加如下内容即可：
-[markup]defaultMarkdownHandler = &amp;#34;goldmark&amp;#34;[markup.goldmark][markup.goldmark.renderer]unsafe = true 对于播放器的样式，支持 CSS 的样式设置。例如:
-&amp;lt;iframe src=&amp;#34;//player.bilibili.com/player.html?aid=834386267&amp;amp;bvid=BV1G34y1F7nZ&amp;amp;cid=1359032219&amp;amp;p=1&amp;#34; scrolling=&amp;#34;no&amp;#34; border=&amp;#34;0&amp;#34; frameborder=&amp;#34;no&amp;#34; framespacing=&amp;#34;0&amp;#34; allowfullscreen=&amp;#34;true&amp;#34; width=&amp;#34;800px&amp;#34; height=&amp;#34;600px&amp;#34; &amp;gt; &amp;lt;/iframe&amp;gt; 使用 iframe 还可以嵌入其他类型的页面。</description>
+      <description>校园跑步社团成立 校园跑步社团于今日正式成立，旨在鼓励校内学生积极参与跑步活动，促进身心健康。欢迎各位同学踊跃加入！</description>
     </item>
   </channel>
 </rss>
