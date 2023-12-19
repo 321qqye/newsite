@@ -10,7 +10,7 @@ date = 2023-12-12T09:41:07+08:00
 
 ## 招新海报
 
-![https://gd-hbimg.huaban.com/84500bfd96c767e0f054abef21f0d81dcbd609015d46f-XofnPv_fw658](https://gd-hbimg.huaban.com/84500bfd96c767e0f054abef21f0d81dcbd609015d46f-XofnPv_fw658)
+![招新](/images/zhaoxin.png)
 
 ## 欢迎你的到来
 
