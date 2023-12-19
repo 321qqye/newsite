@@ -10,18 +10,8 @@ date = 2023-12-12T09:41:07+08:00
 
 ## 招新海报
 
-![https://gd-hbimg.huaban.com/84500bfd96c767e0f054abef21f0d81dcbd609015d46f-XofnPv_fw658](C:\Users\宋酱\Desktop\newsite\content\post\first.assets\84500bfd96c767e0f054abef21f0d81dcbd609015d46f-XofnPv_fw658.jpeg)
+![https://gd-hbimg.huaban.com/84500bfd96c767e0f054abef21f0d81dcbd609015d46f-XofnPv_fw658](https://gd-hbimg.huaban.com/84500bfd96c767e0f054abef21f0d81dcbd609015d46f-XofnPv_fw658)
 
 ## 欢迎你的到来
 
-<iframe
-  src="https://www.bilibili.com/video/BV1rZ4y1574q/?share_source=copy_web&vd_source=e092c92dc5d87fb59462097b095a9b6b"
-  scrolling="no"
-  border="0"
-  frameborder="no"
-  framespacing="0"
-  allowfullscreen="true"
-  width="800px"
-  height="600px"
->
-</iframe>
+<iframe src="//player.bilibili.com/player.html?aid=372362339&bvid=BV1rZ4y1574q&cid=242652235&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
